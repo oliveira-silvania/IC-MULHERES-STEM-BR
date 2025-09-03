@@ -8,7 +8,7 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 ## 🎯 Objetivos
 - Construir um **repositório de dados** consolidado sobre produção científica em STEM no Brasil (2021–2023).  
-- Realizar **análises estatísticas** e identificar padrões de participação feminina.  
+- Realizar **análises estatísticas por meio de painel BI (Power BI)** para identificar padrões de participação feminina.  
 - Implementar **modelagens preditivas** (ex.: Random Forest) para auxiliar na identificação de tendências.  
 - Disponibilizar um **painel interativo em BI** para visualização dos resultados.  
 
@@ -18,17 +18,17 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 - **`data/`** → bases de dados utilizadas.  
   - `raw/` → dados brutos (Sucupira/CAPES).  
   - `processed/` → dados tratados para análise.  
-- **`notebooks/`** → análises exploratórias e estatísticas em Jupyter/Colab.  
-- **`scripts/`** → códigos Python para processamento, modelagem e visualização.  
+- **`notebooks/`** → análises de predição (Python/Colab).  
+- **`scripts/`** → códigos Python para modelagem e visualização.  
 - **`reports/`** → relatórios e documentos finais da pesquisa.  
 - **`dashboards/`** → arquivos do painel BI (Power BI `.pbix`) e exportações.  
 
 ---
 
 ## ⚙️ Tecnologias utilizadas
-- **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn)  
+- **Power BI** (análises estatísticas e painel interativo)  
+- **Python** (pandas, scikit-learn, matplotlib, seaborn)  
 - **SQL Server** (armazenamento e consultas)  
-- **Power BI** (painel interativo)  
 - **GitHub** (organização e versionamento)  
 
 ---
@@ -40,7 +40,7 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 ## ▶️ Como reproduzir análises
 1. Obtenha os dados (instruções em `data/README.md`).  
-2. Crie o ambiente virtual e instale dependências:  
+2. Caso queira rodar os modelos preditivos:  
    ```bash
    python -m venv .venv
    source .venv/bin/activate   # Linux/Mac
