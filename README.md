@@ -6,6 +6,14 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 ---
 
+## 👤 Autoria
+- **Discente:** Silvania Alves Oliveira  
+- **Orientadora:** Profa. Maria José Pereira Dantas  
+- **Instituição:** Pontifícia Universidade Católica de Goiás (PUC Goiás)  
+- **Período:** 2024/2 – 2025/1  
+
+---
+
 ## 🎯 Objetivos
 - Construir um **repositório de dados** consolidado sobre produção científica em STEM no Brasil (2021–2023).  
 - Realizar **análises estatísticas por meio de painel BI (Power BI)** para identificar padrões de participação feminina.  
