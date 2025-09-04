@@ -10,7 +10,7 @@ Esta pasta armazena os **dados brutos (raw)** utilizados no projeto de Iniciaç�
 Os dados foram obtidos diretamente do **Banco de Metadados da CAPES**, com registros provenientes da **Plataforma Sucupira**.  
 Esses arquivos representam informações homologadas pelos Programas de Pós-Graduação (PPG) e validadas pelas Instituições de Ensino.
 
-🔗 Catálogo oficial: [https://metadados.capes.gov.br/index.php](https://metadados.capes.gov.br/index.php)
+🔗 Catálogo oficial: [https://dadosabertos.capes.gov.br/dataset/](https://dadosabertos.capes.gov.br/dataset/)
 
 ### 1. Produção Intelectual  
 - **Arquivo:** `metadados_producao_intelectual_2021_2024.pdf`  
