@@ -17,7 +17,7 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 ## 🎯 Objetivos
 - Construir um **repositório de dados** consolidado sobre produção científica em STEM no Brasil (2021–2023).  
 - Realizar **análises estatísticas por meio de painel BI (Power BI)** para identificar padrões de participação feminina.  
-- Implementar **modelagens preditivas** (ex.: Random Forest) para auxiliar na identificação de tendências.  
+- Implementar **modelagens preditivas** (ex.: Random Forest) para auxiliar na identificação de gênero.  
 - Disponibilizar um **painel interativo em BI** para visualização dos resultados.  
 
 ---
