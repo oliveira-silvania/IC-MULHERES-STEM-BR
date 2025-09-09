@@ -29,7 +29,7 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 - **`notebooks/`** → análises de predição (Python/Colab).  
 - **`scripts/`** → códigos Python para modelagem e visualização.  
 - **`reports/`** → relatórios e documentos finais da pesquisa.  
-- **`dashboards/`** → arquivos do painel BI (Power BI `.pbix`) e exportações.  
+- **`dashboards/`** → Painel BI.  
 
 ---
 
