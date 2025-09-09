@@ -9,7 +9,7 @@ O painel consolida indicadores da produção científica brasileira (2021–2023
 
 ## 🌐 Versão Online (Interativa)
 
-🔗 [Clique aqui para abrir o painel no Power BI](https://app.powerbi.com/groups/me/reports/a76d7687-9fee-4eec-b6ab-676185c166bd/b65fad18172b98588cda?experience=power-bi)
+🔗 [Clique aqui para abrir o painel no Power BI](https://app.powerbi.com/groups/me/reports/a76d7687-9fee-4eec-b6ab-676185c166bd/b8180988e6fd86a34563?experience=power-bi)
 
 ---
 
