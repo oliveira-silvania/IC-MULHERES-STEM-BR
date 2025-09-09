@@ -48,7 +48,7 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 ## ▶️ Como reproduzir análises
 1. Obtenha os dados (instruções em `data/README.md`).  
-2. Caso queira rodar os modelos preditivos:  
+2. Caso queira rodar o modelo preditivo:  
    ```bash
    python -m venv .venv
    source .venv/bin/activate   # Linux/Mac
