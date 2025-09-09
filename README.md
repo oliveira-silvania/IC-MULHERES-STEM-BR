@@ -42,7 +42,7 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 ---
 
 ## 📊 Painel BI
-🔗 [Acesse o painel aqui](COLOQUE_O_LINK_AQUI)
+🔗 [Acesse o painel aqui](https://app.powerbi.com/groups/me/reports/a76d7687-9fee-4eec-b6ab-676185c166bd/b65fad18172b98588cda?experience=power-bi)
 
 ---
 
