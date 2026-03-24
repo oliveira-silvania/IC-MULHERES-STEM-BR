@@ -42,7 +42,7 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 ## 📂 Estrutura do repositório
 
-- **`dashboards/`** → Painel BI.  
+- **`dashboards/`** → painel BI.  
 
 - **`data/`** → bases de dados utilizadas.  
 
