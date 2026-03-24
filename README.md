@@ -50,7 +50,7 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 - **`scripts/`** 
   
--   - `Predição/` →  código Python desenvolvido para a predição de gênero.
+  - `Predição/` →  código Python desenvolvido para a predição de gênero.
 
 
 ---
