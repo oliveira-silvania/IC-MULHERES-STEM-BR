@@ -1,8 +1,18 @@
 # A INCLUSÃO DE MULHERES NA CIÊNCIA BRASILEIRA EM ÁREAS DE STEM: REPOSITÓRIO DE DADOS, ANÁLISES ESTATÍSTICAS E MODELAGENS QUE IDENTIFIQUEM PADRÕES OU TENDÊNCIAS
 
+![Banner do XI Congresso de Ciência, Tecnologia e Inovação da PUC Goiás](./image_0dda88.png)
+
 Repositório da minha Iniciação Científica desenvolvida na **PUC Goiás**, sob orientação da **Profa. Maria José Pereira Dantas**, no período **2024/2 a 2025/1**.  
 
-Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e um **painel de Business Intelligence (BI)** sobre a participação de mulheres na ciência brasileira em áreas de STEM (Science, Technology, Engineering and Mathematics).
+Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e um **painel de Business Intelligence (BI)** sobre a participação de mulheres na ciência brasileira em áreas de STEM (*Science, Technology, Engineering and Mathematics*).
+
+---
+
+## 📢 Publicação Oficial
+Este trabalho foi apresentado e publicado como resumo expandido no **XI Congresso de Ciência, Tecnologia e Inovação da PUC Goiás (2025)**.
+
+* **ISSN:** 2177-3327
+* 🔗 [Acesse a publicação nos Anais do Congresso](https://congressos.pucgoias.edu.br/anais/anais-do-xi-congresso-de-ciencia-tecnologia-e-inovacao-2025/trabalho/740)
 
 ---
 
@@ -22,26 +32,25 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 ---
 
-## 📂 Estrutura do repositório
+## 📂 Estrutura do Repositório
 - **`data/`** → bases de dados utilizadas.  
   - `raw/` → dados brutos (Sucupira/CAPES).   
-- **`notebooks/`** → análises de predição (Python/Colab).  
+- **`notebooks/`** → análises de predição e exploração de dados (Python/Colab).  
 - **`scripts/`** → códigos Python para modelagem e visualização.  
-- **`reports/`** → relatórios e documentos finais da pesquisa.  
-- **`dashboards/`** → Painel BI.  
+- **`reports/`** → relatórios, documentos finais e o resumo expandido do congresso.  
+- **`dashboards/`** → arquivos e capturas do Painel BI.  
 
 ---
 
-## ⚙️ Tecnologias utilizadas
+## ⚙️ Tecnologias Utilizadas
 - **Power BI** (análises estatísticas e painel interativo)  
 - **Python** (pandas, scikit-learn, matplotlib, seaborn)  
-- **SQL Server** (armazenamento e consultas)  
+- **SQL Server** (armazenamento e consultas estruturadas)  
 - **GitHub** (organização e versionamento)  
 
 ---
 
 ## 📊 Painel BI
-🔗 [Acesse o painel aqui](https://app.powerbi.com/groups/me/reports/a76d7687-9fee-4eec-b6ab-676185c166bd/b8180988e6fd86a34563?experience=power-bi)
+🔗 [Acesse o painel interativo aqui](https://app.powerbi.com/groups/me/reports/a76d7687-9fee-4eec-b6ab-676185c166bd/b8180988e6fd86a34563?experience=power-bi)
 
 ---
-
