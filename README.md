@@ -42,17 +42,15 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 ## 📂 Estrutura do repositório
 
+- **`dashboards/`** → Painel BI.  
+
 - **`data/`** → bases de dados utilizadas.  
 
   - `raw/` → dados brutos (Sucupira/CAPES).   
 
-- **`notebooks/`** → análises de predição (Python/Colab).  
-
-- **`scripts/`** → códigos Python para modelagem e visualização.  
-
-- **`reports/`** → relatórios e documentos finais da pesquisa.  
-
-- **`dashboards/`** → Painel BI.  
+- **`scripts/`** 
+  
+-   - `Predição/` →  código Python desenvolvido para a predição de gênero.
 
 
 ---
