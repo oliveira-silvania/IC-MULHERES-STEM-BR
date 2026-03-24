@@ -24,8 +24,7 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 ## 📂 Estrutura do repositório
 - **`data/`** → bases de dados utilizadas.  
-  - `raw/` → dados brutos (Sucupira/CAPES).  
-  - `processed/` → dados tratados para análise.  
+  - `raw/` → dados brutos (Sucupira/CAPES).   
 - **`notebooks/`** → análises de predição (Python/Colab).  
 - **`scripts/`** → códigos Python para modelagem e visualização.  
 - **`reports/`** → relatórios e documentos finais da pesquisa.  
@@ -46,12 +45,3 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 ---
 
-## ▶️ Como reproduzir análises
-1. Obtenha os dados (instruções em `data/README.md`).  
-2. Caso queira rodar o modelo preditivo:  
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate   # Linux/Mac
-   .venv\Scripts\activate      # Windows
-
-   pip install -r requirements.txt
