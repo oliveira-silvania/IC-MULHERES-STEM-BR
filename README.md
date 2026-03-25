@@ -84,3 +84,11 @@ Este trabalho foi apresentado e publicado como resumo expandido no **XI Congress
 * 🔗 [Acesse a publicação nos Anais do Congresso](https://congressos.pucgoias.edu.br/anais/anais-do-xi-congresso-de-ciencia-tecnologia-e-inovacao-2025/trabalho/740)
 
 ---
+
+## 🚀 Continuidade da Pesquisa (TCC)
+
+Esta Iniciação Científica representou a base e a primeira etapa da minha investigação sobre a participação feminina nas áreas STEM. A pesquisa teve continuidade e foi expandida no meu **Trabalho de Conclusão de Curso (TCC)**.
+
+No TCC, aprofundei o estudo aplicando métodos de **Análise de Redes Complexas** (teoria dos grafos e métricas de centralidade) sobre os mesmos dados da Plataforma Sucupira, buscando entender de forma mais aprofundada as dinâmicas de colaboração científica.
+
+🔗 [➡️ **Acesse aqui o repositório do TCC para conferir a evolução completa do projeto**](https://github.com/oliveira-silvania/TCC.git)
