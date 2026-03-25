@@ -1,16 +1,10 @@
 # A INCLUSÃO DE MULHERES NA CIÊNCIA BRASILEIRA EM ÁREAS DE STEM: REPOSITÓRIO DE DADOS, ANÁLISES ESTATÍSTICAS E MODELAGENS QUE IDENTIFIQUEM PADRÕES OU TENDÊNCIAS
 
-
-
 Repositório da minha Iniciação Científica desenvolvida na **PUC Goiás**, sob orientação da **Profa. Maria José Pereira Dantas**, no período **2024/2 a 2025/1**.  
-
-
 
 Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e um **painel de Business Intelligence (BI)** sobre a participação de mulheres na ciência brasileira em áreas de STEM (Science, Technology, Engineering and Mathematics).
 
-
 ---
-
 
 ## 👤 Autoria
 
@@ -22,9 +16,7 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 - **Período:** 2024/2 – 2025/1  
 
-
 ---
-
 
 ## 🎯 Objetivos
 
@@ -36,9 +28,7 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 - Disponibilizar um **painel interativo em BI** para visualização dos resultados.  
 
-
 ---
-
 
 ## 📂 Estrutura do repositório
 
@@ -52,9 +42,7 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
   
   - `Predição/` →  código Python desenvolvido para a predição de gênero.
 
-
 ---
-
 
 ## ⚙️ Tecnologias utilizadas
 
@@ -64,16 +52,11 @@ Este projeto reúne **dados, análises estatísticas, modelagens preditivas** e 
 
 - **SQL Server** (armazenamento e consultas)  
 
-- **GitHub** (organização e versionamento)  
-
-
 ---
-
 
 ## 📊 Painel BI
 
 🔗 [Acesse o painel aqui](https://app.powerbi.com/groups/me/reports/a76d7687-9fee-4eec-b6ab-676185c166bd/b8180988e6fd86a34563?experience=power-bi)
-
 
 ---
 
