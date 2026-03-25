@@ -3,8 +3,7 @@
 Esta pasta contém os **dados brutos (raw)** utilizados no projeto de Iniciação Científica:  
 > **A INCLUSÃO DE MULHERES NA CIÊNCIA BRASILEIRA EM ÁREAS DE STEM: REPOSITÓRIO DE DADOS, ANÁLISES ESTATÍSTICAS E MODELAGENS QUE IDENTIFIQUEM PADRÕES OU TENDÊNCIAS**
 
-Os arquivos são **metadados oficiais da CAPES (2021–2024)**, extraídos do **Banco de Metadados da Plataforma Sucupira**.  
-Eles descrevem a estrutura, variáveis e periodicidade de atualização dos dados homologados pelos **Programas de Pós-Graduação (PPGs)** no Brasil.
+Os arquivos são **metadados oficiais da CAPES (2021–2023)**, extraídos do **Banco de Metadados da Plataforma Sucupira**.  
 
 🔗 Catálogo oficial: [Metadados CAPES](https://metadados.capes.gov.br/index.php)  
 
@@ -52,12 +51,3 @@ Eles descrevem a estrutura, variáveis e periodicidade de atualização dos dado
   - **2023:** 4.659 PPGs em 477 IES  
 
 ---
-
-## 📊 Relação entre os conjuntos
-
-```mermaid
-graph TD
-    A[Programas de Pós-Graduação] --> B[Produção Intelectual]
-    B --> C[Autores da Produção Intelectual]
-    A --> D[Projetos]
-    D --> E[Financiadores]
