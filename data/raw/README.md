@@ -13,7 +13,6 @@ Eles descrevem a estrutura, variáveis e periodicidade de atualização dos dado
 ## 📑 Arquivos disponíveis
 
 ### 1. Produção Intelectual
-- **Arquivo:** `producao_intelectual.pdf`  
 - **Descrição:** Metadados das produções intelectuais dos PPGs (bibliográficas, técnicas e artísticas).  
 - **Fonte:** [Dados abertos CAPES – Produção Intelectual (2021–2024)](https://dadosabertos.capes.gov.br/dataset/2021-a-2024-producao-intelectual-de-pos-graduacao-stricto-sensu-no-brasil)  
 - **Variáveis principais:** programa, instituição, título da produção, tipo/subtipo, área de concentração, linha de pesquisa, projeto, ISSN (quando aplicável), vínculo com TCC.  
@@ -25,7 +24,6 @@ Eles descrevem a estrutura, variáveis e periodicidade de atualização dos dado
 ---
 
 ### 2. Autores da Produção Intelectual
-- **Arquivo:** `autor_producao_intelectual.pdf`  
 - **Descrição:** Identificação e vínculos dos autores das produções intelectuais.  
 - **Fonte:** [Dados abertos CAPES – Autores da Produção Intelectual (2021–2024)](https://dadosabertos.capes.gov.br/dataset/2021-a-2024-autor-da-producao-intelectual-de-programas-de-pos-graduacao-stricto-sensu-no-brasil)  
 - **Variáveis principais:** nome do autor, tipo de vínculo (docente, discente, egresso, pós-doc, externo), categoria docente, nível de titulação, área de conhecimento, país, tempo de egresso.  
@@ -34,7 +32,6 @@ Eles descrevem a estrutura, variáveis e periodicidade de atualização dos dado
 ---
 
 ### 3. Financiadores de Projetos
-- **Arquivo:** `financiadores.pdf`  
 - **Descrição:** Metadados sobre financiadores de projetos vinculados aos PPGs.  
 - **Fonte:** [Dados abertos CAPES – Financiadores de Projetos (2021–2024)](https://dadosabertos.capes.gov.br/dataset/2021-a-2024-financiadores-de-projetos-dos-programas-de-pos-graduacao-stricto-sensu-no-brasil)  
 - **Variáveis principais:** nome do financiador, natureza do financiamento, programa de fomento, país de origem, indicador de financiador estrangeiro, vínculo com programa/instituição.  
@@ -46,7 +43,6 @@ Eles descrevem a estrutura, variáveis e periodicidade de atualização dos dado
 ---
 
 ### 4. Programas de Pós-Graduação
-- **Arquivo:** `programas.pdf`  
 - **Descrição:** Informações sobre os Programas de Pós-Graduação stricto sensu no Brasil.  
 - **Fonte:** [Dados abertos CAPES – Programas de Pós-Graduação (2021–2024)](https://dadosabertos.capes.gov.br/dataset/2021-a-2024-programas-da-pos-graduacao-stricto-sensu-no-brasil)  
 - **Variáveis principais:** área de conhecimento, grande área, subárea, especialidade, instituição, município, UF, região, conceito CAPES, modalidade (acadêmico/profissional), situação do programa, início do curso.  
